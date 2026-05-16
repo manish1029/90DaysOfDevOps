@@ -14,8 +14,7 @@
 
 - Create pipelines using GitHub Actions / Jenkins  
 - Automate build, test, scan, and deploy  
-- Integrate Docker + Kubernetes deployments  
-- Implement environment-based deployments  
+- Integrate Docker + Kubernetes deployments    
 
 ---
 
